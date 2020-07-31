@@ -39,7 +39,8 @@ $ wget https://golang.org/dl/go1.14.6.linux-amd64.tar.gz
 # 解压至系统目录
 $ sudo tar -C /usr/local -xzf go1.14.6.linux-amd64.tar.gz
 # 设定路径
-$ nano ~/.profile
+$ #nano ~/.profile
+$ nano ~/.bashrc
 ...
 export PATH="$PATH:/usr/local/go/bin"
 ...
