@@ -25,6 +25,10 @@ func main() {
         fmt.Println("莱纳德，杜兰特，哈登")
     case 3:
         fmt.Println("欧文，利拉德，乔治")
+    case 4, 5, 6:
+        fmt.Println("角色群")
+    default:
+        fmt.Println("板凳群")
     }
 
     switch time.Now().Weekday() {
