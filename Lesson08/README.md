@@ -25,9 +25,9 @@ func main() {
     // 数组定义且赋值
     b := [5]int{1, 2, 3, 4, 5}
     fmt.Println("b数组:", b)
-	for i := 0; i < len(b); i++ {
-		fmt.Println(b[i])
-	}
+    for i := 0; i < len(b); i++ {
+        fmt.Println(b[i])
+    }
     // 二维数组
     var c [2][3]int
     for i := 0; i < 2; i++ {
