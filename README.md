@@ -27,10 +27,15 @@ Go语言初学入门教学
 22. 通道缓冲区
 23. 通道同步
 24. 匿名函数
+25. 返回函数类型的函数
 
 ## 课程文件
 
 https://github.com/komavideo/LearnGo
+
+## 小马部落(Discord)
+
+https://discord.gg/VSKw72P
 
 ## 小马视频频道
 
