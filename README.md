@@ -37,6 +37,7 @@ Go语言初学入门教学
 32. 延迟调用 - defer
 33. 延迟的使用例 - defer sample
 34. 程序崩溃与修复 - panic recover
+35. 并发协程再入门
 
 ## 课程文件
 
